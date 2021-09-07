@@ -1,0 +1,37 @@
+Revision history for Alien::libsdl2
+
+1.08
+
+	- Let's find out!
+
+1.07
+
+	- 1.06 but for real this time on Win32
+
+1.06
+
+	- Force share install (we need headers for SDL2::FFI & fixes ffi bundle on Win32)
+
+1.05
+
+	- Lib order for ffi bundle is broken (and I'm okay with that)
+
+1.04
+
+	- Attempt to build lib on Win32 for shared install
+
+1.03
+
+	- Prep for bundle
+
+1.02
+
+	- Attempt to build libs on bsd
+
+1.01
+
+	- Attempt to build libs on darwin/OSX
+
+1.0       2021-05-17 20:10:38-04:00 America/New_York
+
+	- Alien::SDL2 has been stalled for nearly a decade and I feel like making some games
