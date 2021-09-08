@@ -12,7 +12,7 @@ on 'configure' => sub {
     requires 'Alien::Build::Plugin::Build::Make' => '2.40';
     #requires 'Alien::Build::Plugin::Probe::Vcpkg' => '2.40';
     requires 'ExtUtils::MakeMaker' => '7.62';
-	requires 'Alien::libsdl2';
+	requires 'Alien::libsdl2' => '== 1.06';
 };
 
 on 'build' => sub {
